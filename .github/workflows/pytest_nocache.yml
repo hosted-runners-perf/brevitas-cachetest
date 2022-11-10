@@ -1,4 +1,4 @@
-name: Pytest
+name: Pytest No Cache
 
 on:
   workflow_dispatch:
